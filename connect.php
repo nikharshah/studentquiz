@@ -9,3 +9,5 @@ class Connect {
 	function __construct() {
 		$this->conn = $this->connectDB();
 	}
+	
+	
